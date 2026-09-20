@@ -2,7 +2,7 @@
 
 Diagnose and maintain RTK command-history and token-savings telemetry for Codex and Claude Code without conflating telemetry repair with ordinary shell-command enforcement.
 
-> Status: private shared Skill repository. Consumer rollout is in progress.
+> Status: public shared Skill repository. Consumer rollout is in progress.
 
 ## Scope
 
@@ -21,3 +21,7 @@ Repository: <https://github.com/picketfence-labs/rtk-telemetry-skill>
 ## Validation
 
 Run the installed `skill-creator` `quick_validate.py` against the repository root. Validate end-to-end telemetry from fresh native provider sessions because an existing session may predate configuration changes.
+
+## License
+
+Released under the MIT License.
