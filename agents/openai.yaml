@@ -1,0 +1,4 @@
+interface:
+  display_name: "RTK Telemetry"
+  short_description: "Diagnose RTK history and persistence"
+  default_prompt: "Use $rtk-telemetry to diagnose RTK telemetry without changing machine-global configuration unless explicitly authorized."
